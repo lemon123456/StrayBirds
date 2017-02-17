@@ -67,7 +67,7 @@ nav:
 author:
     name: xuxiaojuan
     email: xjxu@thoughtworks.com
-    imageLink: /images/head_portrait.jpeg
+    imageLink: https://github.com/lemon123456/Images/blob/master/BlogImages/head_portrait.jpeg
     simpleIntro: 我是 xuxiaojuan
     detailIntro:
       <p>xuxiaojuan 的博客</p>
