@@ -15,7 +15,7 @@ include:      [".htaccess"]
 exclude:      []
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 
 # Filtering Content
@@ -67,7 +67,7 @@ nav:
 author:
     name: xuxiaojuan
     email: xjxu@thoughtworks.com
-    imageLink: https://avatars.githubusercontent.com/minixalpha
+    imageLink: https://github.com/lemon123456/Images/blob/master/BlogImages/HeadPortrait.jpeg
     simpleIntro: 我是 xuxiaojuan
     detailIntro:
       <p>xuxiaojuan 的博客</p>
