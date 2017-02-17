@@ -15,7 +15,7 @@ include:      [".htaccess"]
 exclude:      []
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
-markdown_ext: "mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 
 # Filtering Content
@@ -114,7 +114,6 @@ disqus:
 
 username: lemon123456
 baseurl: /StrayBirds
-markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 飞鸟集
