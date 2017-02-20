@@ -116,7 +116,7 @@ username: lemon123456
 baseurl: /blog
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title:
 description: 世界以痛吻我,我要报之以歌.
 theme: kunka
 disqusname: lemon123456
