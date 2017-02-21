@@ -5,6 +5,7 @@ category: 技术
 comments: true
 ---
 
+介绍Java中线程的创建和关闭
 
 ## 如何创建一个线程
 
