@@ -6,6 +6,7 @@ comments: true
 ---
 
 Protractor是一个专为AngularJS设计的端到端测试框架.本文将介绍Protractor的基础和常用的操作.
+
 `End-to-end test framework` `AngularJS`
 
 **Protractor** is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would. 
