@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92930404-6b42-46f4-b78b-db3169eee8f1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/archives.html" afterPath="$PROJECT_DIR$/_site/navigations/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/categories.html" afterPath="$PROJECT_DIR$/_site/navigations/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/contact.html" afterPath="$PROJECT_DIR$/_site/navigations/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/navigations/links.html" afterPath="$PROJECT_DIR$/_site/navigations/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/archives.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/categories.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/contact.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/index.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/themes/kunka/links.html" afterPath="$PROJECT_DIR$/_site/themes/kunka/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/技术/2014/09/20/java-concurrency.html" afterPath="$PROJECT_DIR$/_site/技术/2014/09/20/java-concurrency.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/生活/2015/05/10/life.html" afterPath="$PROJECT_DIR$/_site/生活/2015/05/10/life.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navigations/index.html" afterPath="$PROJECT_DIR$/navigations/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/kunka.html" afterPath="$PROJECT_DIR$/_includes/kunka.html" />
     </list>
     <ignored path="StrayBirds.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,31 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="links.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/navigations/links.html">
+      <file leaf-file-name="kunka_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/kunka_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archives.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/themes/kunka/archives.html">
+      <file leaf-file-name="kunka.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/kunka.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.375">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/themes/kunka/categories.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.42792794">
+              <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -125,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/navigations/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08558559">
+            <state vertical-scroll-proportion="-14.375">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -165,7 +154,6 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_site/navigations/index.html" />
-        <option value="$PROJECT_DIR$/_includes/kunka.html" />
         <option value="$PROJECT_DIR$/navigations/index.html" />
         <option value="$PROJECT_DIR$/_site/navigations/archives.html" />
         <option value="$PROJECT_DIR$/_site/navigations/categories.html" />
@@ -178,6 +166,7 @@
         <option value="$PROJECT_DIR$/_site/themes/kunka/links.html" />
         <option value="$PROJECT_DIR$/_site/技术/2014/09/20/java-concurrency.html" />
         <option value="$PROJECT_DIR$/_site/生活/2015/05/10/life.html" />
+        <option value="$PROJECT_DIR$/_includes/kunka.html" />
       </list>
     </option>
   </component>
@@ -1033,12 +1022,12 @@
       <option name="number" value="Default" />
       <updated>1487299137505</updated>
       <workItem from="1487299138795" duration="9258000" />
-      <workItem from="1487555788682" duration="9969000" />
+      <workItem from="1487555788682" duration="10935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19227000" />
+    <option name="totallyTimeSpent" value="20193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="0" />
@@ -1331,22 +1320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/kunka_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6306306">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1375,14 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.875">
           <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/kunka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.0">
-          <caret line="48" column="71" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="71" />
           <folding />
         </state>
       </provider>
@@ -1477,8 +1442,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/navigations/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08558559">
+        <state vertical-scroll-proportion="-14.375">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/kunka_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/kunka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42792794">
+          <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
           <folding />
         </state>
       </provider>
