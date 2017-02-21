@@ -5,7 +5,8 @@ category: 技术
 comments: true
 ---
 
-Protractor是一个专为AngularJS设计的端到端测试框架.本文将介绍Protractor的基础和常用的操作.
+Protractor是一个专为AngularJS设计的端到端测试框架. 本文将介绍使用Protractor做UI测试时的一些基础的操作.
+
 
 `End-to-end test framework` `AngularJS`
 
@@ -100,7 +101,7 @@ describe('Protractor Demo App', function() {
 
         element(by.id('gobutton')).click();            # <button id="gobutton">
 
-        expect(element(by.binding('latest')).getText()).toEqual('3');       # {{latest}}
+        expect(element(by.binding('latest')).getText()).toEqual('3');      # {{ latest }}
     });
 });
 ```
