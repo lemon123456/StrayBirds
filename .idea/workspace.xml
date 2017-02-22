@@ -26,16 +26,16 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2017-02-08-Cucumber.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-08-Cucumber.md">
-          <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-4.201238">
-                <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+              <first_editor vertical-scroll-proportion="0.7678019">
+                <caret line="314" column="59" selection-start-line="314" selection-start-column="59" selection-end-line="314" selection-end-column="59" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -983,7 +983,7 @@
       <workItem from="1487555788682" duration="12796000" />
       <workItem from="1487647168636" duration="352000" />
       <workItem from="1487647748111" duration="8474000" />
-      <workItem from="1487744018937" duration="1412000" />
+      <workItem from="1487744018937" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="Modify image path&#10;">
       <created>1487661312956</created>
@@ -995,7 +995,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32292000" />
+    <option name="totallyTimeSpent" value="32408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
@@ -1414,16 +1414,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-08-Cucumber.md">
-      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-4.201238">
-            <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+          <first_editor vertical-scroll-proportion="0.7678019">
+            <caret line="314" column="59" selection-start-line="314" selection-start-column="59" selection-end-line="314" selection-end-column="59" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
