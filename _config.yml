@@ -107,7 +107,7 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: xu_xiaojuan
+  id: xu-xiaojuan
 
 
 #################################### global configure #######################################
@@ -119,7 +119,7 @@ highlighter: pygments
 title:
 description: 世界以痛吻我,我要报之以歌.
 theme: kunka
-disqusname: xu_xiaojuan
+disqusname: xu-xiaojuan
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
