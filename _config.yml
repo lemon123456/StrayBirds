@@ -110,6 +110,11 @@ disqus:
   id: xu-xiaojuan
 
 
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+
+
 #################################### global configure #######################################
 
 username: lemon123456
