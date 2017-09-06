@@ -42,7 +42,7 @@ webdriver-manager start
 This will start up a Selenium Server and will output a bunch of info logs. Your Protractor test will send requests to this server to control a local browser. You can see informantion about the status fo the server at http://localhost:4444/wd/hub.
 
 ### Write a test
-[Protractor-Demo](http://juliemr.github.io/protractor-demo/)
+You can get An AngularJS application here:[AngularJS-demo](http://juliemr.github.io/protractor-demo/)
 
 - **Spec file**
 
